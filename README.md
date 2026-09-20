@@ -206,4 +206,4 @@ ExifTool is available as a full free version, including all features and updates
 Don't wait any longer! Download ExifTool now and take control of your image metadata like never before!
 
 ---
-**Last updated:** 2026-09-20 10:33:18 UTC
+**Last updated:** 2026-09-20 14:27:40 UTC
